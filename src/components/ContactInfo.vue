@@ -1,7 +1,7 @@
 <template>
     <div class="md:w-[41%] group hover:scale-105 transform transition-transform duration-200 ease-out cursor-pointer">
         <div class="pl-7">
-            <h1 class="text-xl font-bold">CONTACT</h1>
+            <h1 class="text-xl font-bold dark:text-white">CONTACT</h1>
         </div>
         <div class="flex flex-row align-end">
             <div class="w-1 bg-[#008080] h-27"></div>

@@ -41,7 +41,6 @@
                     return url;
             }
         }
-        // if already a full url or has protocol, return as-is
         return url;
     });
     void Icon;
